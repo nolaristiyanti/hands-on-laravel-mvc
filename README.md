@@ -1,6 +1,3 @@
-[HANDS-ON] DAY 32 - STUDY CASE Model, Migration, dan Database Connection
-
-
 # [HANDS-ON] Day 31 : Routing dn Controller Dasar
 <img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/8df0267b-ff92-4dff-858a-958947019870" />
 <img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/4dcabb63-8fd2-4b39-96e1-fcfed0a09cce" />
